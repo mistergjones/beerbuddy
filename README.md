@@ -2,7 +2,6 @@
 
 -   [General info](#general-info)
 -   [BeerBuddy Link](#BeerBuddy-link)
--   [Necessary Deliverables](#necessary-deliverable)
 -   [To Do or Future Items](#to-do)
 -   [Screenshots](#screenshots)
 -   [In-depth Features of BeerBuddy](#in-depth-features-of-BeerBuddy)
@@ -27,18 +26,6 @@ This project is to demonstrate both client side and Server side technologies wit
     [https://fast-plains-49674.herokuapp.com/]
 -   Public access to ER Diagram / Schema, Kanban, User Stories and Wireframe link:
     [https://whimsical.com/Ag1F3iFkPqXJFAgE5BS4hr]
-
-## Necessary Deliverables
-
--   A link to your hosted working app in the URL section of your Github repo
--   A team git repository hosted on Github, with a link to your hosted project, and frequent commits from every team member dating back to the very beginning of the project
--   A readme.md file with:
--                     Explanations of the technologies used
--                     A few paragraphs about the general approach you took
--                     Link to your user stories – who are your users, what do they want, and why?
--                     Link to your wireframes – sketches of major views / interfaces in your application
--                     Link to your diagrams - database schema
--                     Descriptions of any unsolved problems or major hurdles your team had to overcome
 
 ## To-Do / Future Items
 
